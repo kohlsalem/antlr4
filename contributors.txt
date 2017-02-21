@@ -67,6 +67,7 @@ YYYY/MM/DD, github id, Full name, email
 2015/01/29, TomLottermann, Thomas Lottermann, tomlottermann@gmail.com
 2015/02/15, pavlo, Pavlo Lysov, pavlikus@gmail.com
 2015/03/07, RedTailedHawk, Lawrence Parker, larry@answerrocket.com
+
 2015/04/03, rljacobson, Robert Jacobson, rljacobson@gmail.com
 2015/04/06, ojakubcik, Ondrej Jakubcik, ojakubcik@gmail.com
 2015/04/29, jszheng, Jinshan Zheng, zheng_js@hotmail.com
@@ -136,3 +137,4 @@ YYYY/MM/DD, github id, Full name, email
 2017/02/10, lionelplessis, Lionel Plessis, lionelplessis@users.noreply.github.com
 2017/02/14, lecode-official, David Neumann, david.neumann@lecode.de
 2017/02/14, xied75, Dong Xie, xied75@gmail.com
+2017/02/14, kohlsalem, Michael Kohl, michael@kohlsalem.com
